@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fcitypopcafe&psig=AOvVaw1Wh6J45l-sIoyJ_fUC09G3&ust=1744049620369000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCJj43KWBxIwDFQAAAAAdAAAAABAQ"  />
+  <img height="200" src="https://64.media.tumblr.com/1519c79c50b925e095c269c4f032f338/9aa88ecca9e641c4-09/s540x810/787f4192014fd248e91dfdf28d3621e58fd0c598.gifv"  />
 </div>
 
 ###
