@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://i.imgur.com/pMZmu4k.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fcitypopcafe&psig=AOvVaw1Wh6J45l-sIoyJ_fUC09G3&ust=1744049620369000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCJj43KWBxIwDFQAAAAAdAAAAABAQ)"  />
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fcitypopcafe&psig=AOvVaw1Wh6J45l-sIoyJ_fUC09G3&ust=1744049620369000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCJj43KWBxIwDFQAAAAAdAAAAABAQ"  />
 </div>
 
 ###
