@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F692498880225683768%2F&psig=AOvVaw1l03z2QoemrlGXHUwZWfVh&ust=1744051064097000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiwl9aGxIwDFQAAAAAdAAAAABAE"  />
+  <img height="100" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"  />
 </div>
 
 ###
