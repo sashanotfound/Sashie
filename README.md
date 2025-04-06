@@ -36,17 +36,7 @@
 
 <br clear="both">
 
-<p align="center">───── ⋆⋅☆⋅⋆ ─────</p>
 
-###
-
-<br clear="both">
-
-<div align="center">
-
-</div>
-
-###
 
 <br clear="both">
 
